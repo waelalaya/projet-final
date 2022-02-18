@@ -1,0 +1,10 @@
+export const GET_CART_LOAD = "GET_CART_LOAD";
+export const GET_CART_SUCCESS = "GET_CART_SUCCESS";
+export const GET_CART_FAIL = "GET_CART_FAIL";
+export const DELETE_CART = "DELETE_CART";
+export const GET_CART = "GET_CART";
+export const UPLOAD_CART = "UPLOAD_CART";
+export const ADD_CART_LOAD = "ADD_CART_LOAD";
+export const ADD_CART_SUCCESS = "ADD_CART_SUCCESS";
+export const ADD_CART_FAIL = "ADD_CART_FAIL";
+export const EDIT_CART = "EDIT_CART";

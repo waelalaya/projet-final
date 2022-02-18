@@ -1,0 +1,17 @@
+.dash{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.profil{
+    font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+flex-direction: column-reverse;
+}
